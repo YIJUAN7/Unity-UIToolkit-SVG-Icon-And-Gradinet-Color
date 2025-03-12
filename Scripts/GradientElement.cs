@@ -16,7 +16,7 @@ public partial class GradientElement : VisualElement
 public enum Direction
     {
         Horizontal,
-        Vectorial
+        Vertical
     }
     public GradientElement()
     {
